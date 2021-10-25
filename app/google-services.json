@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346897923145",
+    "project_id": "uesan2021-ec946",
+    "storage_bucket": "uesan2021-ec946.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346897923145:android:5ee9c1950d6f621b575398",
+        "android_client_info": {
+          "package_name": "dev.luischang.firebaseuesan2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346897923145-r969sh514abpkph648e6se9kavc681d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA40me-Z13CD9qNoCsFGP9rF9nKizlXCDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346897923145-r969sh514abpkph648e6se9kavc681d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
